@@ -25,9 +25,4 @@ Make sure you have a Google account to save a copy of the notebook to your drive
 We welcome contributions to improve the existing notebooks or to add new ones that support the FAIC research and SENG3011 teaching objectives. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-This repository is made available under the MIT License. For more details, see the [LICENSE](LICENSE) file in the repository.
-
-## Acknowledgements
-Special thanks to the faculty and students from the UNSW Faculty of Art and Design and the SENG3011 course for their collaboration and input into this project.
-
-This repository stands as a testament to the collaborative spirit of research and education at UNSW.
+This repository is made available under the Apache 2.0 License. For more details, see the [LICENSE](LICENSE) file in the repository.
